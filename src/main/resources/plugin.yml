@@ -1,0 +1,6 @@
+main: net.craftingforchrist.zanderinstance.ZanderInstanceMain
+name: ZanderInstance
+description: An instance used for multiple commands and events on Servers.
+version: ${project.version}
+author: Crafting For Christ, Ben Robson
+api-version: 1.16
